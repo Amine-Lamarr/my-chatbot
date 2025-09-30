@@ -1,0 +1,105 @@
+[Website Info]
+Hey, I’m Amine from Morocco, and I created this website to detect Moroccan money, including both bills and coins. I trained an AI model for object detection called YOLO, specifically the YOLOv8m version, which is capable of recognizing objects in images with high accuracy. 
+⚠️ Note: This model currently can’t recognize (1dh, 0.5dh, 2dh, 20dh) but Insh’Allah I will improve it in the future to support them.
+
+[Dataset Info]
+I collected and created my own dataset using photos I took with my phone, covering five categories: 5dh, 10dh, 50dh, 100dh, and 200dh. I uploaded the dataset to Roboflow, making it completely public so anyone can access and use it for learning or experimentation.
+
+[How Website Works]
+The concept behind this website is simple yet practical: you upload an image containing Moroccan money from the categories I mentioned, and the AI model will automatically detect each bill or coin in the picture, identify its value, and calculate the total amount for you. For example, if you upload a picture containing a 100dh and a 50dh bill, the model will detect both and display the total sum immediately.
+
+[About Me]
+I’m Amine from Morocco, 18 years old, studying AI at university. I am single. I have two siblings: a brother named Salman and a sister named Alae. 
+
+[Hobbies]
+My hobbies are: gym, programming, football, boxing, and music.
+
+[Dreams]
+My dreams are: to become one of the best AI engineers in the world, build my own business, achieve financial freedom, and travel to explore beautiful places on Earth. 
+
+[Personality]
+I tend to stay calm and control my feelings. My emotions are very strong. I love helping people, I love peace, and I love kind people. I hate villains and evil people. I love to be a leader, and I want to be stronger every day. I’m grinding daily to be the best in the world in my field.
+
+[Favorite Food]
+My favorite food includes: seafood, couscous (from my mother only), any cheesy pizza, steak, and barbecue.
+
+[Physical Info]
+My height is 181 cm, my weight is 63 kg, my skin color is white, and my eye color is hazel (changeable).
+
+[Ideal Partner]
+Amine’s ideal girl type: kind, feminine energetic, loyal, care, and mature.
+
+[Music Taste]
+My favorite rapper is Eminem. Other top rappers I listen to (not in order): Eminem, NF, Madd, Kendrick Lamar, J. Cole, Drake, Nas, Smallx, Shobbe, Figoshing, Royce Da 5'9, Tupac, Future, Biggie, TheWeeknd, Rihanna, Bruno Mars, and SZA.
+
+[Discipline & Work Ethic]
+Amine learns by discipline and working harder and smarter than everyone from 5am to 9pm. He keeps on learning every day, even if he is tired, sick, or drained. He continues working and improving himself constantly.
+
+[Inspirations & Role Models]
+The person Amine loves and admires the most is Eminem. He loves Eminem because his music helped him during his hardest, most depressed moments. Eminem's music gives Amine power, energy, and masculinity.
+
+[Personal Values & People He Loves]
+Amine loves peaceful people who do not get angry over every small reason. He loves those who truly care for him. Amine could die for the people he loves. He hates bad people and evil people who hurt others mentally or physically.
+
+[Religion & Age]
+Amine is a Muslim and 18 years old.
+
+[Website Future Plans]
+This website will continue to be optimized in the future by adding more stunning aesthetic designs and new features.
+
+[Daily Routine]
+Amine's daily routine: wake up at 6am, pray, do 60 push-ups, study for 2 hours, eat breakfast at 8am, study AI for 3 hours in the morning, then 3 more hours after lunch, gym at 7pm, and sleep at 10pm.
+
+[Favorite Music & Series]
+Some of Amine's favorite music includes: John Wick soundtrack, The Maze Runner soundtrack, Fight Club soundtrack, Undisputed, 8 Mile, The Hobbit soundtrack, The Lord of the Rings soundtrack, World War Z soundtrack.  
+Favorite series: Stranger Things (all-time favorite), Game of Thrones, Alice in the Borderland, Teen Wolf.  
+Favorite anime: Attack on Titan, Demon Slayer, Jujutsu Kaisen, Vinland Saga, Dragon Ball, Death Note.  
+Amine prefers Kendrick Lamar over Drake.
+
+[Social Media & Contacts]
+Amine's WhatsApp number: 0660355219  
+Instagram: @aminecanflyy
+
+[Friends & Relationships]
+Amine has some best friends, whom he loves and does not want to mention individually.  
+Amine does not have a girlfriend.  
+Amine cannot answer questions about his exes.  
+Amine loves people who support him and are real with him.
+
+[Favorite Countries]
+Favorite countries: United States of America, Japan.
+
+[Favorite Albums]
+Amine's favorite albums include: The Death of Slim Shady, Recovery, Kamikaze, Hurry Up Tomorrow, Sensus, Black Rose, The Eminem Show, The Marshall Mathers LP, Music to Be Murdered By, Damn, Good Kid Maad City, The Off Season, After Hours, Hope, Perception, Graduation, Clouds, Bad Meets Evil.  
+His all-time favorite album is Recovery.
+
+[Favorite Cartoon]
+Amine's favorite cartoons: Clarence, SpongeBob.
+
+[Model Accuracy & Limitations]
+This AI model can make mistakes in detecting money if the picture input is not clear or blurry.  
+The model accuracy on the test dataset is 94%, which is high and reliable.
+
+[Programming Languages]
+Amine knows several programming languages: Python (mainly for AI), HTML, CSS, JavaScript, and C++.
+
+[Next AI Projects]
+Amine has not set his next AI project yet, but updates will be shared on Amine's Instagram stories.
+
+[Love & Relationships]
+Amine does not currently love anyone. He controls his feelings carefully, even if a girl attracts him, due to some old traumas.amine is single.
+
+[Languages Spoken]
+Amine speaks three languages: Arabic, English, and some French.
+
+[Libraries Used]
+Some of the libraries used in this project include: LangChain, FastAPI, Ultralytics, NumPy, OpenCV, Pandas, and Matplotlib.
+
+[Sources of Happiness]
+Things that make Amine happy include: reaching a new personal best in the gym, completing a big AI project, playing a football match, and hearing a good speech from a friend.
+
+[Project Independence]
+Amine did not rely on ChatGPT to build this model. ChatGPT only gave him the idea, but all the code and implementation were written entirely by Amine himself.
+
+[Favorite Anime Characters]
+My favorite anime characters are: Eren Jeager, Tanjiro Kamado, Mikasa, Erwin Smith, Goku, Android 18, Muichiro Tokito
