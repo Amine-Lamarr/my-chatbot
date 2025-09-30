@@ -8,7 +8,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
 
 # %%
-api_key = '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'
+api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 client = OpenAI(
   base_url="https://openrouter.ai/api/v1",  
   api_key=api_key,           
