@@ -59,8 +59,8 @@ async function sendMessage() {
     if (!text) return;
     addMessage(text, "user");  
     input.value = "";
-    const data = await sendQuestion(text);  // استدعاء RAG/DeepSeek عبر FastAPI
-    addMessage(data.answer, "bot");        // يظهر الجواب
+    const data = await sendQuestion(text); 
+    addMessage(data.answer, "bot");        
 }
 function checkEnter(event) {
     if (event.key === "Enter") {
